@@ -1,5 +1,5 @@
 # Heasdspin_Assignments
-How to run python the program
+#How to run python the program
 To run python files you need to have python installed on your Pc.
 
 After installation, check the version of python installed.
