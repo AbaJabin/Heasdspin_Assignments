@@ -1,3 +1,5 @@
+#Write a program to find the nth prime number.
+
 n = int(input('Enter : '))                                 #take input to 'n' variale
 prime_numbers = [2,3]                                      #create variable 'prime_numbers' and store 2,3 initially
 i=3                                                        #create variable 'i' and store 3 initially
