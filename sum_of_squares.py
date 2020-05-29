@@ -1,3 +1,4 @@
+# Write a program to find the sum of the squares ofall natural numbers from 1 to N
 def squaresum(n) :              #define function
     sm = 0                      #initialise sm to zero
     for i in range(1, n+1) :    
